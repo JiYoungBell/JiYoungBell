@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=JiYoungBell&textBg=false&animation=fadeIn&fontColor=000000)
 
-<center>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chiron+Sung+HK&pause=800&color=000000&background=FFFFFF00&width=435&lines=%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8+%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8+%26+%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8+%EA%B0%9C%EB%B0%9C%EC%9E%90)](https://git.io/typing-svg)</center>  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chiron+Sung+HK&pause=800&color=000000&background=FFFFFF00&width=435&lines=%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8+%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8+%26+%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8+%EA%B0%9C%EB%B0%9C%EC%9E%90)](https://git.io/typing-svg)
 
 스크립트 제작 / 스트리머 서버 제작 / 서버팩 제작 / 시스템 안정화  
 
