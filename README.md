@@ -5,7 +5,8 @@
 스크립트 제작 / 스트리머 서버 제작 / 서버팩 제작 / 시스템 안정화  
 
 
-![Discord](https://img.shields.io/badge/Discord-jiyoungbell-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![Minecraft Profile](https://img.shields.io/badge/Minecraft-rosie__0211__-4A9A4A?style=for-the-badge&logo=minecraft&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-jiyoungbell-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8geKJDjP)
+ ![Minecraft Profile](https://img.shields.io/badge/Minecraft-rosie__0211__-4A9A4A?style=for-the-badge&logo=minecraft&logoColor=white)
 
 
 ![Skript](https://img.shields.io/badge/Skript_(.sk)-56A3CD?style=for-the-badge&logo=files&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
