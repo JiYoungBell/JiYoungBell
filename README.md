@@ -1,1 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=200&color=gradient&text=jiyoungbell&textBg=false&animation=twinkling)
+# JiYoungBell
+
+**Systems, software, and audio.**
+
+I build and maintain things —  
+from Linux servers and automation tools to web services and audio systems.
